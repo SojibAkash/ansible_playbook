@@ -1,4 +1,4 @@
-Install ansible
+Install ansible ubuntu 22.04 LTS
 
 sudo apt-add-repository ppa:ansible/ansible
 sudo apt update
