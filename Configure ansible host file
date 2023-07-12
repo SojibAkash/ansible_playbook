@@ -1,0 +1,9 @@
+[servers]
+server_1 ansible_host=20.14.93.61
+server_2 ansible_host=20.14.94.135
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
+ansible_user=azureuser
+ansible_ssh_private_key_file=/home/azureuser/keys/sojib.pem
+
